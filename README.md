@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="920" height="430" alt="image" src="https://github.com/user-attachments/assets/44b671f7-325b-4570-a7e7-e49e73e05865" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/59e7ccf7-4473-4bd0-8763-4819e0750b65" />
 
 # Heroic Games Launcher
   <p align="center">
